@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34031.279
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "diplom", "diplom\diplom.esproj", "{3D0F60BB-CBE2-4117-AEC4-1CC9BF2CAF39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3D0F60BB-CBE2-4117-AEC4-1CC9BF2CAF39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D0F60BB-CBE2-4117-AEC4-1CC9BF2CAF39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D0F60BB-CBE2-4117-AEC4-1CC9BF2CAF39}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{3D0F60BB-CBE2-4117-AEC4-1CC9BF2CAF39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D0F60BB-CBE2-4117-AEC4-1CC9BF2CAF39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D0F60BB-CBE2-4117-AEC4-1CC9BF2CAF39}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {DFF1D069-DA89-431A-B8BB-5594C29C4078}
+	EndGlobalSection
+EndGlobal
